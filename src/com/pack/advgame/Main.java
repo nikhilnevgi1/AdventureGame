@@ -9,7 +9,7 @@ public class Main {
     private static Map<Integer,Location> locs = new HashMap<>();
 
     public static void main(String[] args) {
-        System.out.println("Welcome to the Travel Game");
+        System.out.println("Welcome to the Travel Game !!");
         defineExitMap();
         calculateDirection();
     }
